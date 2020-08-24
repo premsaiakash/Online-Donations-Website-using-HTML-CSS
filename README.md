@@ -1,2 +1,2 @@
-# Online-Donations-Website-using-HTML-CSS
+# Online-Donations-Website
 Payment Gateway Integration
